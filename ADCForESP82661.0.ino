@@ -1,7 +1,9 @@
 /*
  * MCU：ESP8266
- * ADC:TLC2543
+ * ADC: TLC2543
  * Communication：Wifi
+ * IDE: Arduino IDE
+ *
  * Author:Jiaming Luo
  * Date:2020/7/27
 */
